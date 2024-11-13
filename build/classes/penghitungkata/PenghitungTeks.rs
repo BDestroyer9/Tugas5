@@ -1,0 +1,4 @@
+Penghitungkata.PenghitungTeks$3
+Penghitungkata.PenghitungTeks$2
+Penghitungkata.PenghitungTeks$1
+Penghitungkata.PenghitungTeks
